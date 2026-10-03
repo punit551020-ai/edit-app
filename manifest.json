@@ -1,0 +1,11 @@
+{
+  "name": "HACKER ANKIT Video Studio",
+  "short_name": "HA Studio",
+  "description": "A local-first browser video editor.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#101114",
+  "theme_color": "#101114",
+  "icons": [{"src":"icons/icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
